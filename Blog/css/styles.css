@@ -1,0 +1,146 @@
+body, html {
+	margin: 0px;
+	font-family: "Georgia", Serif;
+	background-color: #5F9EA0;
+}
+
+.intro {
+	font-size: 48px;
+	text-align: center;
+}
+
+figure {
+	height:35%;
+	width:35%;
+	float:left;
+	position: relative;
+	text-align:left;
+}
+
+#glorious {
+	height: 100%;
+	width: 100%;
+	display: block;
+}
+
+figcaption {
+	font-style: italic;
+	font-size: 11px;
+	position: absolute;
+
+}
+
+header {
+	text-align: center;
+	border: 3px solid #00008B;
+	border-width: 3px 0;
+	margin: 0px;
+	padding: 0px;
+}
+
+#label {
+	display: inline-block;
+	text-align: center;
+	font-size: 30px;
+	float:left;
+}
+
+#navList {
+	text-align:center;
+}
+
+#menubar li {
+	display: inline;
+}
+
+#menubar a {
+	display: inline-block;
+	padding: 10px;
+	font-size: 24px;
+}
+
+#menubar a:hover {
+	background-color:#32CD32;
+}
+
+p {
+	margin-left:400px;
+	display: block;
+	margin-right: 30%;
+	font-size: 18px;
+}
+
+.intro_phrase {
+	font-size: 12px;
+	padding-left: 45px;
+	padding-right: 20px;
+	position: relative;
+	bottom: -20px;
+}
+
+footer {
+	text-align: left;
+	font-style: italic;
+}
+
+#squinty {
+	margin-left: 550px;
+}
+#squinty_image {
+	height: 100%;
+	width: 100%;
+}
+
+#ContactLabel {
+	text-align: left;
+	font-size: 24px;
+}
+
+.winter_photos {
+	height: 60%;
+	width: 65%;
+	display: block;
+
+}
+
+.article_text {
+	margin-left: 500px;
+	display: block;
+}
+
+.article_title {
+	text-align: center;
+	margin-top: 100px;
+}
+
+#winter_figure {
+	position: relative;
+	top: -300px;
+}
+
+
+#projectpic {
+	float:right;
+	margin-right: 20%;
+	margin-bottom: 15%;
+	top: -250px;
+}
+
+#projectMessage {
+	margin-left: 0px;
+}
+
+#projectForm {
+	margin-left: 150px;
+}
+
+form {
+	margin-top: 70px;
+}
+textarea {
+	width: 30%;
+}
+
+.formLabel {
+	display: inline-block;
+}
